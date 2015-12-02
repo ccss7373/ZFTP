@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import com.zfpt.web.service.system.IUserService;
 
-/**      
- * 项目名称：zfpt   
+/**       
+ * 项目名称：zfpt
  * 类名称：LoginController   
  * 类描述： 系统登录控制器  
  * 创建人：chens
